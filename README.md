@@ -5,14 +5,14 @@
 - 🥇 I majored in Artifitial Intelligence
 
 ### Education & Work
-- 👩🏻‍🎓 CSIA, CheongShim International Academy (2019.02 - 2022.02)
-- 🎓 Kookmin University , AI (2022.03 ~ )
-- 💻 SK AI Leader Academy (2026.07 ~ 2026.12)
+- 👩🏻‍🎓 CSIA, CheongShim International Academy (2019.02 ~ 2022.02)
+- 🎓 Kookmin University, Artificial Intelligence (2022.03 ~ )
+- 💻 SKALA, SK AI Leader Academy (2026.07 ~ 2026.12)
 
 ### Awards
 - 2026 Capstone Design Project (2nd Prize)
 
-### Certification
+### Certifications
 - SQLD (SQL Developer)
 - AdsP (Advanced Data Analytics Semi-Professional)
 
