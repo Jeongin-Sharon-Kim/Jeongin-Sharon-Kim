@@ -4,15 +4,17 @@
 - 🌱 I’m currently learning Node, React, Algorithm
 - 🥇 I majored in Artifitial Intelligence
 
-### Education
+### Education & Work
 - 👩🏻‍🎓 CSIA, CheongShim International Academy (2019.02 - 2022.02)
 - 🎓 Kookmin University , AI (2022.03 ~ )
-- 💻 SKALA (2026.07 ~ 2026.12)
+- 💻 SK AI Leader Academy (2026.07 ~ 2026.12)
 
-### Award & Certification
+### Awards
 - 2026 Capstone Design Project (2nd Prize)
-- SQLD
-- AdsP
+
+### Certification
+- SQLD (SQL Developer)
+- AdsP (Advanced Data Analytics Semi-Professional)
 
 
 ## Skills
