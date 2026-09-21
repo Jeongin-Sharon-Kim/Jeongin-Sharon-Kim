@@ -8,6 +8,7 @@
   height="300"
 />
 </a>
+
 ### Who Am I
 - 🌱 I’m currently learning Node, React, Algorithm
 - 🥇 I majored in Artifitial Intelligence
