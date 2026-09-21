@@ -1,5 +1,13 @@
 
 # Jeongin 😉
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Jeongin-Sharon-Kim&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Jeongin-Sharon-Kim"
+  width="600"
+  height="300"
+/>
+</a>
 ### Who Am I
 - 🌱 I’m currently learning Node, React, Algorithm
 - 🥇 I majored in Artifitial Intelligence
